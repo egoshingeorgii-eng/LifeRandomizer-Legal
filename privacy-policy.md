@@ -1,9 +1,9 @@
-# Privacy Policy for LifeRandomizer
+# Privacy Policy for Wildcard
 
 **Effective Date:** June 19, 2026
 
 ## 1. Information Collection
-LifeRandomizer ("the App") is designed to respect your privacy. All your data, categories, and randomizing history are stored locally on your device. We do not collect, transmit, or store your personal data on any external servers.
+Wildcard ("the App") is designed to respect your privacy. All your data, categories, and randomizing history are stored locally on your device. We do not collect, transmit, or store your personal data on any external servers.
 
 ## 2. Use of Information
 Since we do not collect your personal information, we do not use it for any tracking, marketing, or profiling purposes. 
